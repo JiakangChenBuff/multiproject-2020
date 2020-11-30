@@ -1,2 +1,2 @@
 # Instructions
-## Open the python notebook in Colab
+## To run the application open the python notebook in Colab, then follow the instructions from there.
