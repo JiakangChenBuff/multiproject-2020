@@ -1,1 +1,2 @@
-# Open the python notebook in Colab
+# Instructions
+## Open the python notebook in Colab
